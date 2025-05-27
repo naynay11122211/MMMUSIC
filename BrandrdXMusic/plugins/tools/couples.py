@@ -14,8 +14,8 @@ from BrandrdXMusic.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="ရည်းစားရှာရန်  🥀",
-            url=f"https://t.me/melody_cchat",
+            text="ရည်းစားရှာရန် 🥀",
+            url=f"https://t.me/NyiKoTayDLoNay1",
         ),
     ],
 ]
